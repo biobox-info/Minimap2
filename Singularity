@@ -22,3 +22,4 @@ rm minimap2-2.17_x64-linux.tar.bz2
 %labels
 MAINTAINER BioBox
 Version v1.0
+ 
